@@ -100,8 +100,7 @@ class Valores {
 <div align="center" width="50">
   <p><strong> 📝 LICENCIA🗃️ </strong></p>
 
-  Este proyecto está bajo la licencia MIT. ¡Esperamos que SwiftPay mejore significativamente el la gestion de nuevos pagos!
-</div>
+  Este proyecto está bajo AaronDevs LICENSE.
 
 
 
