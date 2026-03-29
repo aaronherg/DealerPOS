@@ -1,17 +1,17 @@
 <div align="center" width="50">
 
-<img src="https://github.com/aaron-developer25/README/blob/main/recursos/dilerpos.png?raw=true" href="https://github.com/aaron-developer25" alt="Logo" width="60%"/><br> 
+<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/dilerpos.png?raw=true" href="https://github.com/aaron-developer25" alt="Logo" width="60%"/><br> 
 
 <p><strong>SISTEMA DE GESTIÓN DE VENTAS Y CONSULTORÍA (DEALERPOS)
 <br><br> ❤️ EQUIPO INVOLUCRADO ❤️</strong></p>
 
 <div>
   <a href="https://github.com/aaron-developer25" style="display: inline-block;">
-    <img src="https://github.com/aaron-developer25/README/blob/main/recursos/aarondeveloper.png?raw=true" alt="aarondeveloper" style="width: 25%;">
+    <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/aarondeveloper.png?raw=true" alt="aarondeveloper" style="width: 25%;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ruthcasilla" style="display: inline-block;">
-    <img src="https://github.com/aaron-developer25/README/blob/main/recursos/ruthcasilla.png?raw=true" alt="ruthcasilla" style="width: 25%;">
+    <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/ruthcasilla.png?raw=true" alt="ruthcasilla" style="width: 25%;">
   </a>
 </div>
 
@@ -111,15 +111,15 @@ class Valores {
  <p><strong> 👨‍🔧 SOPORTE TECNICO 🛠️ </strong></p>
 
   <a href="https://www.instagram.com/">
-    <img src="https://github.com/aaron-developer25/README/blob/main/recursos/instagram.png?raw=true" alt="Instagram" width="5%">
+    <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/instagram.png?raw=true" alt="Instagram" width="5%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/">
-    <img src="https://github.com/aaron-developer25/README/blob/main/recursos/facebook.png?raw=true" alt="Instagram" width="5%">
+    <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/facebook.png?raw=true" alt="Instagram" width="5%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/">
-    <img src="https://github.com/aaron-developer25/README/blob/main/recursos/twitter.png?raw=true" alt="Instagram" width="5%">
+    <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/twitter.png?raw=true" alt="Instagram" width="5%">
   </a>
 
 </div>
